@@ -1,6 +1,5 @@
 import random
-from funcaoWord import lenght
-esc = "lala"
+
 palavras = []
 cont = 0
 rodar = "s"
